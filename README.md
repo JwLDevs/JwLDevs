@@ -1,6 +1,6 @@
 @JwLDevs
 - ✨ Interested in Web/ App Dev
-- 🌿 Currently learning full-stack on JavaScript
+- 🌿 Currently learning back-end web dev
 - 🎭 JwL#7117
 
 <!---
