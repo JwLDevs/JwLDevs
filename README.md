@@ -1,7 +1,7 @@
 @JwLDevs
-- 😘 Interested in Web/ App Dev
-- 🌱 Currently learning full-stack JavaScript
-- 👾 Discord: JwL#7117
+- ✨ Interested in Web/ App Dev
+- 🌿 Currently learning full-stack on JavaScript
+- 🎭 JwL#7117
 
 <!---
 JwLDevs/JwLDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
