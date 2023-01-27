@@ -1,5 +1,5 @@
 @JwLDevs
-- ✨ Interested in Web/ App Dev
+- ✨ Interested in Web Developement
 - 🌿 Currently learning back-end web dev
 - 🎭 JwL#7117
 
