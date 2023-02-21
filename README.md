@@ -1,6 +1,6 @@
 @JwLDevs
-- ✨ HTML/CSS, JS/TS, React/Next
-- 🌿 Currently learning back-end web dev
+- ✨ HTML/CSS/Tailwind, JS/TS/React/Next
+- 🌿 Currently learning back-end developement.
 - 🎭 JwL#7117
 
 <!---
