@@ -1,5 +1,5 @@
 @JwLDevs
-- ✨ Interested in Web Developement
+- ✨ HTML/CSS, JS/TS, React/Next
 - 🌿 Currently learning back-end web dev
 - 🎭 JwL#7117
 
