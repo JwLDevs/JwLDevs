@@ -1,7 +1,7 @@
 @JwLDevs - Web Developer
-__-__ ✨ HTML/CSS/Tailwind, JS/TS/React/Next
-__-__ 🌿 Learning back-end [ Node.js, GO, PostgreSQL ]
-__-__ 🎭 _JwL#7117_
+- ✨ HTML/CSS/Tailwind, JS/TS/React/Next
+- 🌿 Learning back-end [ Node.js, GO, PostgreSQL ]
+- 🎭 __JwL#7117__
 
 <!---
 JwLDevs/JwLDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
