@@ -1,6 +1,6 @@
 @JwLDevs - Web Developer
 - ✨ HTML/CSS/Tailwind, JS/TS/React/Next
-- 🌿 Learning back-end [ Node.js, GO, PostgreSQL ]
+- 🌿 Learning back-end [ Node.js, Go, PostgreSQL ]
 - 🎭 __JwL#7117__
 
 <!---
