@@ -1,6 +1,5 @@
 @JwLDevs - Web Developer
 - ✨ HTML/CSS/Tailwind, JS/TS/React/NextJs, Python
-- 🎭 Discord: __jungdv__
 
 <!---
 JwLDevs/JwLDevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
